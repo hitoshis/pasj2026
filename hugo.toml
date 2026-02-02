@@ -1,3 +1,8 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://www.pasj.jp/dai23kainenkai/"
+languageCode = "ja"
+title = "第23回日本加速器学会年会"
+disableKinds = ["RSS", "sitemap"]
+ignoreLogs = ['warning-goldmark-raw-html']
+buildFuture = true
+[markup.goldmark.renderer]
+  unsafe = true
