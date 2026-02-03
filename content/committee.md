@@ -1,6 +1,6 @@
 +++
 draft = false
-title = ''
+title = '委員一覧'
 url = '/committee.html'
 +++
 
