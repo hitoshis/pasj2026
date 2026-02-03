@@ -5,8 +5,8 @@ body {
 }
 
 a.title-link {
-  color: inherit;        /* 親の文字色 */
-  text-decoration: none; /* 下線なし */
+  color: inherit;
+  text-decoration: none;
 }
 
 .custom-image {
