@@ -1,0 +1,93 @@
+body {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.custom-image {
+    max-width: 1200px;
+    width: 100%;
+    height: auto;
+}
+
+.information-box {
+    background-color: #f8f9fa;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    height: 300px;
+}
+
+.copyright {
+    clear: both;
+    padding: 20px 0;
+    text-align: center;
+    color: black;
+}
+
+.nenkai-header {
+    clear: both;
+    padding: 20px;
+    text-align: left;
+    font-size: 24px;
+    color: black;
+}
+
+.name {
+    text-align-last: justify;
+    text-align: justify;
+    text-justify: inter-ideograph;
+    display: inline-block;
+    width: 6em;
+    margin-right: 2em;
+    margin-left: 4em;
+    margin-bottom: 0;
+}
+
+strong {
+    color: red;
+    text-decoration: underline;
+}
+
+.chairman {
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 32px;
+    border-left: solid 5px #191919;
+    color: black;
+    padding: 20px;
+    background-color: #f8f9fa;
+    margin-top: 10px;
+}
+
+h2 {
+    font-size: 24px;
+    border-left: solid 5px rgb(0, 99, 0);
+    padding: 8px;
+    color: black;
+    background-color: white;
+    margin-top: 8px;
+}
+
+h3 {
+    font-size: 20px;
+    margin-top: 4px;
+}
+.responsive-text {
+    font-size: clamp(12px, 2vw, 24px);
+}
+
+/* for Program List*/
+.program-table {
+    width: 100%;
+    background-color: #ffffff;
+    border-collapse: collapse;
+    border: none;
+}
+
+.program-table td {
+    padding: 3px;
+}

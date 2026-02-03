@@ -1,0 +1,19 @@
+{{ define "main" }}
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 mt-3 mb-3">
+            <div class="information-box">
+                <h4>更新情報</h4>
+                <div class="h-75 overflow-y-auto">
+                    {{ with site.Data.news }}
+                    {{ range . }}
+                    <p style="margin-bottom: 0;">[{{ .date }}] {{ .message | safeHTML }}</p>
+                    {{ end }}
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{{ end }}
