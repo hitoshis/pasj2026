@@ -1,6 +1,6 @@
 +++
 draft = false
-title = ''
+title = '託児所のご案内'
 url = '/nursery.html'
 +++
 
