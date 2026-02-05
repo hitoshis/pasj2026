@@ -10,6 +10,6 @@ url = '/contact.html'
 
 * 住所  : 〒162-0801 東京都新宿区山吹町358-5 アカデミーセンター  
 
-* Mail  : [pasj-desk@conf.bunken.co.jp](mailto:pasj-desk@conf.bunken.co.jp)  
+* Mail  : pasj-desk[_at_]conf[_dot_]bunken[_dot_]co[_dot_]jp  
 
 * FAX   : 03-5227-8632 
