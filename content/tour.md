@@ -1,6 +1,6 @@
 +++
 draft = false
-title = ''
+title = '施設見学会のご案内'
 url = '/tour.html'
 +++
 ## 日本加速器学会 第23回年会　施設見学会のご案内
