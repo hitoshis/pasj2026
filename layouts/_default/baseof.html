@@ -8,10 +8,8 @@
     <link href="{{ "css/pasj.css" | relURL }}" rel="stylesheet">
 </head>
 <body>
-    <header>
-        {{ partial "header.html" . }}
-        {{ partial "navbar.html" . }}
-    </header>
+    {{ partial "header.html" . }}
+    {{ partial "navbar.html" . }}
     <main>
         {{ block "main" . }}{{ end }}
     </main>
