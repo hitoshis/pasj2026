@@ -235,11 +235,11 @@ https://iap-jp.org/pasj/mypage/password_reset/
   アブストラクトは提出締め切り後、準備が出来次第 Web上でも公開いたします。
 * プロシーディングス
   * 1つの発表につき 2－5 ページとします。和文・英文どちらでも可です。  
-  論文のフォーマットは、和文の場合は年会 Webページ*１から、英文の場合は JACoW 形式とし JACoWのWeb ページ*２から、最新のテンプレートをダウンロードしてお使いください。  
+  論文のフォーマットは、和文の場合は年会 Webページ[^1]から、英文の場合は JACoW 形式とし JACoWのWeb ページ[^2]から、最新のテンプレートをダウンロードしてお使いください。  
   古いテンプレートのご使用は避けてください。作成に当たってはテンプレートからの逸脱が無いようご注意願います。
 
- *1 [https://www.pasj.jp/templates.html](https://www.pasj.jp/templates.html)  
- *2 [https://www.jacow.org/index.php?n=Authors.HomePage](https://www.jacow.org/index.php?n=Authors.HomePage) 
+ [^1]: [https://www.pasj.jp/templates.html](https://www.pasj.jp/templates.html)  
+ [^2]: [https://www.jacow.org/index.php?n=Authors.HomePage](https://www.jacow.org/index.php?n=Authors.HomePage) 
 
 ## 問い合わせ先など
 
