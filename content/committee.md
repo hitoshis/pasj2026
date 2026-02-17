@@ -14,13 +14,13 @@ url = '/committee.html'
 
 <span class="chairman"><span class="name">委員長</span>安積　隆夫 (量子科学技術研究開発機構 ナノテラスセンター)</span>
 <p style="margin-left:4em">
-<span class="name">荒木　栄</span>    　高エネルギー加速器研究機構　加速器研究施設<br>
+<span class="name">荒木　栄</span>      高エネルギー加速器研究機構　加速器研究施設<br>
 <span class="name">岩井　瑛人</span>    高輝度光科学研究センター<br>
 <span class="name">内山　暁仁</span>    理化学研究所　仁科加速器研究センター<br>
 <span class="name">大木　俊征</span>    高エネルギー加速器研究機構　加速器研究施設<br>
 <span class="name">大関　和貴</span>    理化学研究所　仁科加速器研究センター<br>
 <span class="name">岡田　貴文</span>    高エネルギー加速器研究機構　加速器研究施設<br>
-<span class="name">郭　　磊</span>　    名古屋大学　シンクロトロン光研究センター<br>
+<span class="name">郭　　磊</span>      名古屋大学　シンクロトロン光研究センター<br>
 <span class="name">柏木　啓次</span>    量子科学技術研究開発機構　高崎量子技術基盤研究所<br>
 <span class="name">鎌倉　恵太</span>    東京大学<br>
 <span class="name">神田　浩樹</span>    大阪大学　核物理研究センター<br>
@@ -32,7 +32,7 @@ url = '/committee.html'
 <span class="name">杉村　仁志</span>    高エネルギー加速器研究機構　加速器研究施設<br>
 <span class="name">金　　展</span>      量子科学技術研究開発機構　関西光科学研究所<br>
 <span class="name">住友　洋介</span>    日本大学<br>
-<span class="name">田村　和宏</span>    高輝度光科学研究センター
+<span class="name">田村　和宏</span>    高輝度光科学研究センター<br>
 <span class="name">平岩　聡彦</span>    理化学研究所　放射光科学研究センター<br>
 <span class="name">福田　将史</span>    高エネルギー加速器研究機構　加速器研究施設<br>
 <span class="name">藤本　將輝</span>    名古屋大学　シンクロトロン光研究センター<br>
