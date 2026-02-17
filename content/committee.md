@@ -12,47 +12,47 @@ url = '/committee.html'
 
 ## プログラム委員会
 
-<span class="chairman"><span class="name">委員長</span>安積　隆夫 (量子科学技術研究開発機構)</span>
-<!--
+<span class="chairman"><span class="name">委員長</span>安積　隆夫 (量子科学技術研究開発機構 ナノテラスセンター)</span>
 <p style="margin-left:4em">
-<span class="name">石橋　拓弥</span>    高エネルギー加速器研究機構　加速器第三研究系<br>
-<span class="name">植木　竜一</span>    高エネルギー加速器研究機構　加速器第四研究系<br>
-<span class="name">上島　考太</span>    量子科学技術研究開発機構<br>
+<span class="name">荒木　栄</span>    　高エネルギー加速器研究機構　加速器研究施設<br>
+<span class="name">岩井　瑛人</span>    高輝度光科学研究センター<br>
 <span class="name">内山　暁仁</span>    理化学研究所　仁科加速器研究センター<br>
-<span class="name">大木　俊征</span> 高エネルギー加速器研究機構　加速器第四研究系<br>
-<span class="name">大島　隆</span>      高輝度光科学研究センター<br>
+<span class="name">大木　俊征</span>    高エネルギー加速器研究機構　加速器研究施設<br>
 <span class="name">大関　和貴</span>    理化学研究所　仁科加速器研究センター<br>
-<span class="name">大塚　崇光</span>    宇都宮大学<br>
-<span class="name">郭　磊</span>                名古屋大学　シンクロトロン光研究センター<br>
+<span class="name">岡田　貴文</span>    高エネルギー加速器研究機構　加速器研究施設<br>
+<span class="name">郭　　磊</span>　    名古屋大学　シンクロトロン光研究センター<br>
 <span class="name">柏木　啓次</span>    量子科学技術研究開発機構　高崎量子技術基盤研究所<br>
+<span class="name">鎌倉　恵太</span>    東京大学<br>
 <span class="name">神田　浩樹</span>    大阪大学　核物理研究センター<br>
-<span class="name">小林　愛音</span>    高エネルギー加速器研究機構　加速器第一研究系<br>
+<span class="name">木村　勇志</span>    三菱重工機械システム株式会社<br>
+<span class="name">小島　完興</span>    量子科学技術研究開発機構　関西光科学研究所<br>
+<span class="name">小林　愛音</span>    高エネルギー加速器研究機構　加速器研究施設<br>
 <span class="name">近藤　力</span>      高輝度光科学研究センター<br>
 <span class="name">佐藤　将春</span>    高エネルギー加速器研究機構　加速器研究施設<br>
-<span class="name">Saha Pranab</span>   日本原子力研究開発機構　J-PARCセンター<br>
-<span class="name">芝田　達伸</span>    高エネルギー加速器研究機構　加速器第一研究系<br>
-<span class="name">金　展</span>                大阪大学　産業科学研究所<br>
+<span class="name">杉村　仁志</span>    高エネルギー加速器研究機構　加速器研究施設<br>
+<span class="name">金　　展</span>      量子科学技術研究開発機構　関西光科学研究所<br>
 <span class="name">住友　洋介</span>    日本大学<br>
-<span class="name">原　博史</span>      三菱重工機械システム株式会社<br>
+<span class="name">田村　和宏</span>    高輝度光科学研究センター
 <span class="name">平岩　聡彦</span>    理化学研究所　放射光科学研究センター<br>
 <span class="name">福田　将史</span>    高エネルギー加速器研究機構　加速器研究施設<br>
 <span class="name">藤本　將輝</span>    名古屋大学　シンクロトロン光研究センター<br>
-<span class="name">二ツ川　健太</span>  高エネルギー加速器研究機構　加速器第二研究系<br>
-<span class="name">馬込　保</span>      高輝度光科学研究センター<br>
+<span class="name">二ツ川　健太</span>  高エネルギー加速器研究機構　加速器研究施設<br>
+<span class="name">保坂　勇志</span>    量子科学技術研究開発機構　ナノテラスセンター<br>
 <span class="name">正木　満博</span>    高輝度光科学研究センター<br>
 <span class="name">的場　史郎</span>    高エネルギー加速器研究機構 物質構造科学研究所<br>
 <span class="name">宮島　司</span>      住友重機械工業<br>
 <span class="name">宮原　房史</span>    高エネルギー加速器研究機構　加速器研究施設<br>
 <span class="name">武藤　俊哉</span>    大阪大学　産業科学研究所<br>
 <span class="name">森川　祐</span>      高エネルギー加速器研究機構　加速器研究施設<br>
+<span class="name">森田　裕一</span>    高エネルギー加速器研究機構　加速器研究施設<br>
+<span class="name">安居　孝晃</span>    高エネルギー加速器研究機構　加速器研究施設<br>
 <span class="name">山口　博史</span>    高輝度光科学研究センター<br>
-<span class="name">山田　秀衛</span>    高エネルギー加速器研究機構　加速器第二研究系<br>
-<span class="name">山本　尚人</span>    高エネルギー加速器研究機構　加速器第六研究系<br>
-<span class="name">吉井　正人</span>    高エネルギー加速器研究機構　加速器第一研究系<br>
+<span class="name">山田　逸平</span>    日本原子力研究開発機構　J-PARCセンター<br>
+<span class="name">山本　尚人</span>    高エネルギー加速器研究機構　加速器研究施設<br>
+<span class="name">吉井　正人</span>    高エネルギー加速器研究機構　加速器研究施設<br>
 <span class="name">吉田　昌弘</span>    金属技研株式会社　技術開発本部　開発センター<br>
-<span class="name">依田　哲彦</span>    大阪大学核物理研究センター<br>
+<span class="name">依田　哲彦</span>    大阪大学　核物理研究センター<br>
 </p>
--->
 
 
 ## 行事委員会
