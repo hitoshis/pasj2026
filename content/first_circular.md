@@ -99,7 +99,7 @@ URL：[https://www.aobayama.jp/](https://www.aobayama.jp/)
 施設 : 東北大学 先端量子ビーム科学研究センター 青葉山事業所
 
 日時 : 2026 年 8 月 28 日(金)午後  
-施設 : 量子科学技術研究開発機構 NanoTerasuセンター  
+施設 : NanoTerasu  
 
 ### 懇親会
 
