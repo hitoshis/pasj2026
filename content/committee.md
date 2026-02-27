@@ -6,13 +6,13 @@ url = '/committee.html'
 
 ## 実行委員会
 
-<span class="chairman"><span class="name">委員長</span>         西森　信行      (量子科学技術研究開発機構)</span>  
+<span class="chairman"><span class="name">委員長</span>         西森　信行      (量子科学技術研究開発機構 NanoTerasuセンター)</span>  
 <span class="chairman"><span class="name">副委員長</span>       伊藤　正俊      (東北大学 先端量子ビーム科学研究センター)</span>   
-<span class="chairman"><span class="name">副委員長</span>       上島　考太      (量子科学技術研究開発機構)</span>   
+<span class="chairman"><span class="name">副委員長</span>       上島　考太      (量子科学技術研究開発機構 NanoTerasuセンター)</span>   
 
 ## プログラム委員会
 
-<span class="chairman"><span class="name">委員長</span>安積　隆夫 (量子科学技術研究開発機構 ナノテラスセンター)</span>
+<span class="chairman"><span class="name">委員長</span>安積　隆夫 (量子科学技術研究開発機構 NanoTerasuセンター)</span>
 <p style="margin-left:4em">
 <span class="name">荒木　栄</span>      高エネルギー加速器研究機構　加速器研究施設<br>
 <span class="name">岩井　瑛人</span>    高輝度光科学研究センター<br>
@@ -37,7 +37,7 @@ url = '/committee.html'
 <span class="name">福田　将史</span>    高エネルギー加速器研究機構　加速器研究施設<br>
 <span class="name">藤本　將輝</span>    名古屋大学　シンクロトロン光研究センター<br>
 <span class="name">二ツ川　健太</span>  高エネルギー加速器研究機構　加速器研究施設<br>
-<span class="name">保坂　勇志</span>    量子科学技術研究開発機構　ナノテラスセンター<br>
+<span class="name">保坂　勇志</span>    量子科学技術研究開発機構　NanoTerasuセンター<br>
 <span class="name">正木　満博</span>    高輝度光科学研究センター<br>
 <span class="name">的場　史郎</span>    高エネルギー加速器研究機構 物質構造科学研究所<br>
 <span class="name">宮島　司</span>      住友重機械工業<br>
