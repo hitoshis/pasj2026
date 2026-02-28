@@ -22,15 +22,14 @@ url = '/committee.html'
 <span class="name">岡田　貴文</span>    高エネルギー加速器研究機構　加速器研究施設<br>
 <span class="name">郭　　磊</span>      名古屋大学　シンクロトロン光研究センター<br>
 <span class="name">柏木　啓次</span>    量子科学技術研究開発機構　高崎量子技術基盤研究所<br>
-<span class="name">鎌倉　恵太</span>    東京大学<br>
-<span class="name">神田　浩樹</span>    大阪大学　核物理研究センター<br>
+<span class="name">鎌倉　恵太</span>    東京大学　原子核科学研究センター<br>
 <span class="name">木村　勇志</span>    三菱重工機械システム株式会社<br>
-<span class="name">小島　完興</span>    量子科学技術研究開発機構　関西光科学研究所<br>
+<span class="name">小島　完興</span>    量子科学技術研究開発機構　関西光量子科学研究所<br>
 <span class="name">小林　愛音</span>    高エネルギー加速器研究機構　加速器研究施設<br>
 <span class="name">近藤　力</span>      高輝度光科学研究センター<br>
 <span class="name">佐藤　将春</span>    高エネルギー加速器研究機構　加速器研究施設<br>
 <span class="name">杉村　仁志</span>    高エネルギー加速器研究機構　加速器研究施設<br>
-<span class="name">金　　展</span>      量子科学技術研究開発機構　関西光科学研究所<br>
+<span class="name">金　　展</span>      大阪大学　産業科学研究所<br>
 <span class="name">住友　洋介</span>    日本大学<br>
 <span class="name">田村　和宏</span>    高輝度光科学研究センター<br>
 <span class="name">平岩　聡彦</span>    理化学研究所　放射光科学研究センター<br>
@@ -81,7 +80,7 @@ url = '/committee.html'
 <span class="name">安積　隆夫</span>    第23回 プログラム委員長／量子科学技術研究開発機構 NanoTerasuセンター<br>
 <span class="name">岩崎　能尊</span>    第24回 実行委員長／九州シンクロトン光研究センター<br>
 <span class="name">山津　善直</span>    第24回 副実行委員長／九州シンクロトン光研究センター<br>
-<span class="name">岩崎　能尊</span>    第24回 プログラム委員長／九州シンクロトン光研究センター<br>
+<span class="name">高林　雄一</span>    第24回 プログラム委員長／九州シンクロトン光研究センター<br>
 </p>
 
 ## 年会開催地検討委員会
@@ -124,7 +123,7 @@ url = '/committee.html'
 <span class="name">渡部　貴宏</span>    高輝度光科学研究センター<br>
 <span class="name">橋本　智</span>      兵庫県立大学<br>
 <span class="name">栗木　雅夫</span>    広島大学<br>
-<span class="name">若狭　智嗣</span>    九州大学大学院<br>
+<span class="name">若狭　智嗣</span>    九州大学<br>
 <span class="name">岩崎　能尊</span>    九州シンクロトロン光研究センター<br>
 <span class="name">堀越　篤</span>      株式会社日立ハイテク<br>
 <span class="name">田中　博文</span>    三菱電機株式会社<br>
