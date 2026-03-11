@@ -1,5 +1,5 @@
 +++
-draft = false
+draft = true
 title = '第２回サーキュラー'
 url = '/second_circular.html'
 +++
