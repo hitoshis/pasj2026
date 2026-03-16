@@ -26,7 +26,7 @@ url = '/booth_info.html'
 主催：日本加速器学会  
 共催：量子科学技術研究開発機構 NanoTerasuセンター  
 <span style="margin-left: 3em">東北大学 先端量子ビーム科学研究センター</span>  
-後援：仙台観光協会、仙台市、宮城県  
+後援：（公財） 仙台観光国際協会  
 会場：仙台国際センター 展示棟 (〒980-0856 宮城県仙台市青葉区青葉山無番地)  
 <span style="margin-left: 3em">仙台市営地下鉄 東西線「国際センター」駅より徒歩1分</span>  
 <span style="margin-left: 3em">URL : <a href="https://www.aobayama.jp">https://www.aobayama.jp</a></span>  
