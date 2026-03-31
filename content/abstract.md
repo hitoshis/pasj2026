@@ -8,6 +8,11 @@ url = '/abstract.html'
 
 **4 月 1 日(水) 11:00 - 5 月 11 日(月) 24:00　予定**
 
+<a class="btn btn-primary" href="https://iap-jp.org/pasj/conf/member/login_portal" role="button">
+                PASJ2026 参加・発表申込システム
+                <img src="images/external_link.svg" alt="link icon">
+            </a><br>
+
 発表申込時にアブストラクトを提出していただきます。  
 前回の第22回年会(PASJ2025)より、発表申込システムをリニューアルいたしました。  
 第21回までとは申込方法が異なるため早めに発表申込を行ってください。  
