@@ -152,7 +152,7 @@ URL：[https://www.aobayama.jp/](https://www.aobayama.jp/)
 正会員、名誉会員、シニア会員はマイページのログインと同じメールアドレスとパスワードにてログインしてください。  
 その他の会員種別の方はログイン ID を発行の上、お申し込みください。  
 本学会会員でご自身の PWD がわからない会員は以下で照会が可能です。  
-https://iap-jp.org/pasj/mypage/password_reset/
+[https://iap-jp.org/pasj/mypage/password_reset/](https://iap-jp.org/pasj/mypage/password_reset/)
 
 ## 発表申し込みについて
 
@@ -163,11 +163,11 @@ https://iap-jp.org/pasj/mypage/password_reset/
 ### 安全保障研究に対する日本加速器学会の対応：
 日本加速器学会では、定款にて学会の目的を示しており、加えて、倫理綱領では、学問の発展と社会公益に貢献するために会員が遵守すべき事項を列記しております。これら学会の理念を確認したうえで発表申込をお願いします。
 
-[定款 (https://www.pasj.jp/teikan.html)]（https://www.pasj.jp/teikan.html）
+[定款 (https://www.pasj.jp/teikan.html)](https://www.pasj.jp/teikan.html)
 
-[倫理綱領（https://www.pasj.jp/rinrikoryo.html）]（https://www.pasj.jp/rinrikoryo.html）
+[倫理綱領 (https://www.pasj.jp/rinrikoryo.html)](https://www.pasj.jp/rinrikoryo.html)
 
-[安全保障研究に対する日本加速器学会の対応（https://www.pasj.jp/anzenhosho.html）]（https://www.pasj.jp/anzenhosho.html）
+[安全保障研究に対する日本加速器学会の対応 (https://www.pasj.jp/anzenhosho.html)](https://www.pasj.jp/anzenhosho.html)
 
 
 ### 研究発表の形式
