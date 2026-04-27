@@ -8,7 +8,7 @@ url = '/company.html'
 <a class="btn btn-success" href="https://form.run/@pasj2026-exhibition-form" role="button">
                 企業展示出展・広告掲載申し込み
                 <img src="images/external_link.svg" alt="link icon">
-            </a> 2026 年 4 月 6 日（月）13時より<br>
+            </a><br>
 
 
 ## 出展料金
