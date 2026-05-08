@@ -4,7 +4,8 @@ title = '第4回学生・企業/研究機関懇談会'
 url = '/kondankai.html'
 +++
 
-## 第4回 学生・企業/研究機関懇談会のご案内
+
+<a href="images/kondankai_poster.pdf"><img src="images/kondankai_poster.jpg" width="200"></a>
 
 <a class="btn btn-secondary mt-3" href="https://form.run/@conf-bunken-dVIAFGA92007Zzzsihvm" role="button">
                 学生・企業/研究機関懇談会申込み（企業・研究機関のかた）
@@ -58,7 +59,9 @@ Zoomミーティング(ブレイクアウトルーム)
 
 無料
 
-### 参加資格：以下のいずれか
+### 参加資格
+
+以下のいずれか
 
 * <b>学生</b>
   * 学生（学部生、大学院生等）  
