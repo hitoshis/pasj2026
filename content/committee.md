@@ -59,8 +59,7 @@ url = '/committee.html'
 <span class="chairman"><span class="name">委員長</span> 原田　寛之 (日本原子力研究開発機構　J-PARCセンター)</span>
 
 <p style="margin-left:4em">
-<span class="name">田村　文彦</span>    広報委員長／日本原子力研究開発機構 J-PARCセンター<br>
-<span class="name">紀井　俊輝</span>    年会ウェブ担当／理化学研究所<br>
+<span class="name">紀井　俊輝</span>    広報委員長／年会ウェブ担当／理化学研究所<br>
 <span class="name">杉村　仁志</span>    年会ウェブ担当／高エネルギー加速器研究機構<br>
 <span class="name">清水　洋孝</span>    会場・企業展示担当／高エネルギー加速器研究機構<br>
 <span class="name">境　武志</span>      会場・企業展示担当／日本大学<br>
