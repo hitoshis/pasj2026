@@ -7,12 +7,6 @@ url = '/kondankai.html'
 
 <a href="images/kondankai_poster.pdf"><img src="images/kondankai_poster.jpg" width="200"></a>
 
-<a class="btn btn-secondary mt-3" href="https://form.run/@conf-bunken-dVIAFGA92007Zzzsihvm" role="button">
-                学生・企業/研究機関懇談会申込み（企業・研究機関のかた）
-                <img src="images/external_link.svg" alt="link icon">
-            </a>
-            <br>申し込み締め切り : <b>6月19日(金)</b>
-
 <div style="text-align: right;">
 学会活性化担当理事 <span class="name">大塚　崇光</span><br>
 学会活性化委員<span class="name">想田　光</span><br>
