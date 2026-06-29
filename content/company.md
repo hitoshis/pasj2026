@@ -5,12 +5,6 @@ url = '/company.html'
 +++
 
 
-<a class="btn btn-success" href="https://form.run/@pasj2026-exhibition-form" role="button">
-                企業展示出展・広告掲載申し込み
-                <img src="images/external_link.svg" alt="link icon">
-            </a><br>
-
-
 ## 出展料金
 
 1小間 200,000円 （賛助会員の場合 150,000円）（消費税込み）  
