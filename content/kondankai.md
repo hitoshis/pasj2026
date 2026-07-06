@@ -18,6 +18,8 @@ url = '/kondankai.html'
   <img src="images/external_link.svg" alt="link icon">
 </a>
 
+[出展企業・研究機関紹介ページ](kondankai-corplist.html)
+
 ## 目標
 
 日本加速器学会では持続可能な学会を目指す取り組みを始めております。  
