@@ -96,3 +96,65 @@ h3 {
 .program-table td {
     padding: 3px;
 }
+
+.expandable-timetable {
+    cursor: zoom-in;
+}
+
+.image-popup {
+    align-items: center;
+    background: rgba(0, 0, 0, 0.45);
+    display: none;
+    inset: 0;
+    justify-content: center;
+    padding: 24px;
+    position: fixed;
+    z-index: 1050;
+}
+
+.image-popup.is-active {
+    display: flex;
+}
+
+.image-popup-dialog {
+    background: #ffffff;
+    border-radius: 6px;
+    box-sizing: border-box;
+    box-shadow: 0 14px 40px rgba(0, 0, 0, 0.35);
+    max-height: 92vh;
+    max-width: min(1100px, 96vw);
+    padding: 40px 18px 18px;
+    position: relative;
+    transform: translateY(8px) scale(0.98);
+}
+
+.image-popup.is-active .image-popup-dialog {
+    transform: translateY(0) scale(1);
+}
+
+.image-popup-close {
+    background: #ffffff;
+    border: 1px solid #cccccc;
+    border-radius: 50%;
+    color: #333333;
+    font-size: 24px;
+    height: 32px;
+    line-height: 28px;
+    padding: 0;
+    position: absolute;
+    right: 10px;
+    top: 8px;
+    width: 32px;
+}
+
+.image-popup-close:hover {
+    background: #f0f0f0;
+}
+
+.image-popup img {
+    display: block;
+    height: auto;
+    max-height: calc(92vh - 58px);
+    max-width: 100%;
+    object-fit: contain;
+}

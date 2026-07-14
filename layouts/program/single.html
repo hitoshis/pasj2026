@@ -1,0 +1,83 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+
+<div class="row">
+  <div class="col-md-4">
+    <img src="{{ "images/timetable1.svg" | relURL }}" class="img-fluid expandable-timetable" alt="Timetable 1">
+  </div>
+  <div class="col-md-4">
+    <img src="{{ "images/timetable2.svg" | relURL }}" class="img-fluid expandable-timetable" alt="Timetable 2">
+  </div>
+  <div class="col-md-4">
+    <img src="{{ "images/timetable3.svg" | relURL }}" class="img-fluid expandable-timetable" alt="Timetable 3">
+  </div>
+</div>
+
+<div class="image-popup" id="timetable-popup" aria-hidden="true">
+  <div class="image-popup-dialog" role="dialog" aria-modal="true" aria-label="Timetable image">
+    <button type="button" class="image-popup-close" id="timetable-popup-close" aria-label="閉じる">&times;</button>
+    <img src="" alt="" id="timetable-popup-image">
+  </div>
+</div>
+
+<br>
+<!--
+<div class="container mt-4">
+  <div class="row mb-3">
+    <div class="col-md-4">
+      <label for="categoryFilter" class="form-label">カテゴリで絞り込み：</label>
+      <select class="form-select" id="categoryFilter">
+        <option value="ALL">すべて表示</option>
+      </select>
+    </div>
+    <div class="col-md-4">
+      <label for="sessionFilter" class="form-label">セッションで絞り込み：</label>
+      <select class="form-select" id="sessionFilter">
+        <option value="ALL">すべて表示</option>
+      </select>
+    </div>
+    <div class="col-md-4">
+      <label for="dateFilter" class="form-label">開催日で絞り込み：</label>
+      <select class="form-select" id="dateFilter">
+        <option value="ALL">すべて表示</option>
+      </select>
+    </div>
+  </div>
+</div>
+
+<table class="program-table" id="program-table">
+</table>
+
+<script src="js/abstract.js"></script>
+-->
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const popup = document.getElementById("timetable-popup");
+    const popupDialog = popup.querySelector(".image-popup-dialog");
+    const popupImage = document.getElementById("timetable-popup-image");
+    const popupClose = document.getElementById("timetable-popup-close");
+
+    const closePopup = () => {
+      popup.classList.remove("is-active");
+      popup.setAttribute("aria-hidden", "true");
+      popupImage.src = "";
+      popupImage.alt = "";
+    };
+
+    document.querySelectorAll(".expandable-timetable").forEach(image => {
+      image.addEventListener("click", () => {
+        popupImage.src = image.src;
+        popupImage.alt = image.alt;
+        popup.classList.add("is-active");
+        popup.setAttribute("aria-hidden", "false");
+      });
+    });
+
+    popup.addEventListener("click", closePopup);
+    popupClose.addEventListener("click", closePopup);
+    popupDialog.addEventListener("click", event => {
+      event.stopPropagation();
+    });
+  });
+</script>
+{{ end }}
