@@ -1,5 +1,5 @@
 +++
 draft = false
-title = 'タイムテーブル・プログラム一覧'
+title = 'タイムテーブル'
 url = '/program.html'
 +++
