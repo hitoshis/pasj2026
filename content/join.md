@@ -4,16 +4,8 @@ title = '参加要項'
 url = '/join.html'
 +++
 
-## 事前参加登録期間
+**事前参加登録は終了いたしました。**
 
-**4月22日(水) - 7月22日(水)** 予定  
-※円滑な年会運営のため、事前登録・事前支払いにご協力ください。
-
-<a class="btn btn-primary" href="https://iap-jp.org/pasj/conf/member/login_portal" role="button">
-                PASJ2026 参加・発表申込システム
-                <img src="images/external_link.svg" alt="link icon">
-            </a><br>
-            
 ## 参加区分・参加費
 
 以下の通りです。第 21 回年会（PASJ2024）より「名誉会員」と本学会法人化に伴い新設された
