@@ -6,6 +6,8 @@ url = '/informal_meeting.html'
 
 ## 第23回年会会場におけるインフォーマルミーティングの受付
 
+**インフォーマルミーティングの受付は終了いたしました。**
+
 <div style="text-align: right;">
 第23回日本加速器学会年会<br>  
 実行委員長 <span class="name">西森　信行</span><br>
@@ -19,13 +21,6 @@ url = '/informal_meeting.html'
 実行委員会、行事委員会は、年会会期中に年会会場にて参加者らによるインフォーマルミーティング（各種委員会、会合など）の開催が可能なように年会会場内で会議室などを確保しております。  
 なお、WiFi環境は整備予定ですが、備え付けのマイク・スピーカーはありません。  
 また、Zoomなどを利用する場合に必要な機材は主催者側で準備してください。  
-
-インフォーマルミーティングを開催予定の主催者は以下の申込ボタンから申込をお願いいたします。  
-        <a class="btn btn-success" href="https://forms.gle/bkKXMqa2iPscidne8" role="button">
-             インフォーマルミーティング申込
-            <img src="images/external_link.svg" alt="link icon">
-        </a><br>
-回答期限：7月24日（金）
 
 ### 利用可能な会議室
 
