@@ -31,6 +31,8 @@ document.addEventListener("DOMContentLoaded", () => {
             Array.from(categorySet).sort((a, b) => {
                 const aKey = (a || "").trim();
                 const bKey = (b || "").trim();
+                if (aKey === "その他" && bKey !== "その他") return 1;
+                if (aKey !== "その他" && bKey === "その他") return -1;
                 if (!aKey) return 1;
                 if (!bKey) return -1;
                 const aNum = aKey.match(/\d+/);
